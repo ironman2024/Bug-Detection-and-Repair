@@ -1,6 +1,3 @@
-# Bug-Detection-and-Repair
-I'll edit the README file to make it more professional and comprehensive. Here's the revised version:
-
 # Bug Detection and Repair
 
 A comprehensive framework for bug detection and repair with datasets, exploratory data analysis, and implementation of repair algorithms.
